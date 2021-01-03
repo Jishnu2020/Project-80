@@ -1,0 +1,15 @@
+#showParagraph_1 {
+    font-size: 300%;
+    }
+    #showParagraph_2 {
+    font-size: 300%;
+    padding-bottom: 2000px;
+    }
+    div { 
+    margin: 10px;
+     width: 48%;
+     }
+      #showParagraph1 , #showParagraph2 {
+         width: 100%;
+          margin: 10px;
+         }
